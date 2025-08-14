@@ -52,4 +52,6 @@ III. AI Agents & Applied Generative AI
 - Data Handling: Data preprocessing, embeddings, vector databases, unstructured data processing
 - Deployment Tools: Gradio, LangChain, API integration
 
+## 📜 Certificates
+
 ## Course Link: https://listwr.com/NGFrDF
