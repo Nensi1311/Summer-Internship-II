@@ -55,3 +55,5 @@ III. AI Agents & Applied Generative AI
 ## 📜 Certificates: https://www.coursera.org/account/accomplishments/professional-cert/J3KBN9LQKGU0
 
 ## Course Link: https://listwr.com/NGFrDF
+
+## Medium Blog: https://medium.com/@nensipansuriya1311/summer-internship-in-ai-machine-learning-from-hello-world-to-talking-bots-c0ff86089626
