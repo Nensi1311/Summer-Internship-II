@@ -52,8 +52,11 @@ III. AI Agents & Applied Generative AI
 - Data Handling: Data preprocessing, embeddings, vector databases, unstructured data processing
 - Deployment Tools: Gradio, LangChain, API integration
 
-## 📜 Certificates: https://www.coursera.org/account/accomplishments/professional-cert/J3KBN9LQKGU0
+## 📜 Certificates: 
+``` https://www.coursera.org/account/accomplishments/professional-cert/J3KBN9LQKGU0 ```
 
-## Course Link: https://listwr.com/NGFrDF
+## Course Link: 
+``` https://listwr.com/NGFrDF ```
 
-## Medium Blog: https://medium.com/@nensipansuriya1311/summer-internship-in-ai-machine-learning-from-hello-world-to-talking-bots-c0ff86089626
+## Medium Blog: 
+``` https://medium.com/@nensipansuriya1311/summer-internship-in-ai-machine-learning-from-hello-world-to-talking-bots-c0ff86089626 ```
